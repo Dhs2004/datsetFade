@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1_11</folder>
+	<filename>frame46.jpg</filename>
+	<path>C:\Users\z1563\Desktop\1\1_11\frame46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>623</ymin>
+			<xmax>531</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>
